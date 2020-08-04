@@ -1,0 +1,23 @@
+h1, h2, h3, h4, h5 {
+    font-family: 'Lora', serif;
+}
+
+head {
+    background-color: #c3aed6;
+}
+body {
+    background-color: #ffd5cd;
+}
+
+h1, h2, h3, h4, h5  {
+    color: #59405c;
+    font-size: 24px;
+}
+
+table {
+    border: 1px solid #c3aed6;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
